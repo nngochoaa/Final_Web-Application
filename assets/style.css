@@ -1,0 +1,10 @@
+:root {
+    --primary: #1a73e8;
+    --success: #00c896;
+    --danger: #ea4335;
+}
+
+body { background: #f4f7fe; font-family: 'Segoe UI', sans-serif; }
+.card { border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+.btn-primary { background: linear-gradient(135deg, #1a73e8, #0d47a1); border: none; }
+.balance-card { background: linear-gradient(135deg, #1a73e8, #4285f4); color: white; }
