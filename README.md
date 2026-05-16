@@ -2,7 +2,7 @@
 
 A web-based digital wallet application built with PHP and MySQL. The system simulates core features of a real e-wallet, including user registration with ID verification, deposits, withdrawals, transfers with OTP confirmation, and a comprehensive admin management panel.
 
-🌐 Live Demo
+🌐 Live Demo (72h)
 URL: https://e-wallet.infinityfreeapp.com/login.php
 
 👤 Test Accounts
